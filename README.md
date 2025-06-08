@@ -1,2 +1,3 @@
-# Calculator-App-using-HTML-CSS-and-JavaScript-1
-Calculator App using HTML, CSS, and JavaScript  Objective: The goal of this project is to build a Calculator App using HTML, CSS, and JavaScript. The application should allow users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
+# Calculator-App-using-HTML-CSS-and-JavaScript
+
+Objective: The goal of this project is to build a Calculator App using HTML, CSS, and JavaScript. The application should allow users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.
